@@ -76,4 +76,3 @@ Although I implemented basic testing with Jest and React Testing Library, in the
 ## Launch
 
 To launch this app, please visit https://myredditminimal.netlify.app/.
-If you identify any issues, feel free to contact me on p.zakeri22@hotmail.com.
